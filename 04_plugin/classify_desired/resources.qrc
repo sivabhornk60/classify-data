@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/classify_desired" >
-        <file>img/phylogenetics.png</file>
-    </qresource>
-</RCC>
